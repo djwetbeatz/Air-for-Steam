@@ -611,12 +611,12 @@ fonts.styles {
 //Overlay
 
   topbar {
-    font-family=basefont font-size=16 font-weight=700 textcolor=A2TextOverlayLabel font-style=uppercase
+    font-family=basefont font-size=32 font-weight=700 textcolor=A2TextOverlayLabel font-style=uppercase
     //clock
   }
 
   clocksuffix {
-    font-family=basefont font-size=16 font-weight=700 textcolor=A2TextOverlayLabel font-style=uppercase
+    font-family=basefont font-size=32 font-weight=700 textcolor=A2TextOverlayLabel font-style=uppercase
     //clock am/pm
   }
 

@@ -5,6 +5,7 @@ resource/layout/overlay_achievementsdetails.layout {
 		}
 
 		button {
+			font-size=24
 			minimum-height=0 //reset for button height
 			padding-right=0 padding-left=0
 			render_bg { }
