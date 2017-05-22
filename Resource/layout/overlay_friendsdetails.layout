@@ -5,6 +5,7 @@ resource/layout/overlay_friendsdetails.layout {
 		}
 
 		button {
+			font-size=24
 			minimum-height=0 //reset for button height
 			padding-right=0 padding-left=0
 			render_bg { }
@@ -16,7 +17,7 @@ resource/layout/overlay_friendsdetails.layout {
 	}
 
 	layout {
-		place { control=AllFriendsButton,ViewPlayersButton height=20 spacing=35 }
+		place { control=AllFriendsButton,ViewPlayersButton height=20 spacing=20 }
 
 		place { control=TitleText,TextThisManyFriends,grid height=0 width=0 }
 	}
